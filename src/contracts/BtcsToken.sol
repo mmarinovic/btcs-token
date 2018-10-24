@@ -5,7 +5,7 @@ import "mmarinovic-ethereumisc/contracts/Erc20.sol";
 
 interface tokenRecipient { function receiveApproval(address _from, uint256 _value, address _token, bytes _extraData) external; }
 
-contract BTCS is Ownable, Erc20 {
+contract BtcsToken is Ownable, Erc20 {
 
     string public name;
     string public symbol;

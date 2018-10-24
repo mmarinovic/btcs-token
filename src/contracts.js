@@ -15,7 +15,7 @@ module.exports = {
     },
     gas: "auto",
     contracts: {
-      BTCS: {
+      BtcsToken: {
         args: {
           _totalSupply: 1000
         }
