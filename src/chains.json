@@ -1,0 +1,14 @@
+{
+  "0x9a9515b7ea135d478ccd25337a08b609d0b3ec075c6eac475a599955961606c5": {
+    "contracts": {
+      "0x59e4962b2fe9295ad86d718684bb0fd36746c264ef57c3a784045a5b72d72e14": {
+        "name": "BTCS",
+        "address": "0xDea80a95cf8a64032EAA76B4CabB6314F213ac16"
+      },
+      "0x2962d581b05a3fc56eaa80cf45787a04b1f677bd35401f96decdd55cd8dfb80c": {
+        "name": "Ownable",
+        "address": "0xF0182FBB736694111E0A2BFC6fffCD0DFa6DCb61"
+      }
+    }
+  }
+}

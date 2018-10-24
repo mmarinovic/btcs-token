@@ -1,0 +1,86 @@
+{
+  "className": "Ownable",
+  "args": [],
+  "code": "608060405234801561001057600080fd5b5060008054600160a060020a031916331790556101b2806100326000396000f30060806040526004361061004b5763ffffffff7c01000000000000000000000000000000000000000000000000000000006000350416638da5cb5b8114610050578063f2fde38b1461008e575b600080fd5b34801561005c57600080fd5b506100656100be565b6040805173ffffffffffffffffffffffffffffffffffffffff9092168252519081900360200190f35b34801561009a57600080fd5b506100bc73ffffffffffffffffffffffffffffffffffffffff600435166100da565b005b60005473ffffffffffffffffffffffffffffffffffffffff1681565b60005473ffffffffffffffffffffffffffffffffffffffff8281169116141561010257600080fd5b73ffffffffffffffffffffffffffffffffffffffff8116151561012457600080fd5b6000805473ffffffffffffffffffffffffffffffffffffffff191673ffffffffffffffffffffffffffffffffffffffff8316908117825560405190917fa2ea9883a321a3e97b8266c2b078bfeec6d50c711ed71f874a90d500ae2eaf3691a2505600a165627a7a7230582096c026b456f48a5143ea92ec1f958e07b3228991ec0a2eb27648458fd3b23f780029",
+  "runtimeBytecode": "60806040526004361061004b5763ffffffff7c01000000000000000000000000000000000000000000000000000000006000350416638da5cb5b8114610050578063f2fde38b1461008e575b600080fd5b34801561005c57600080fd5b506100656100be565b6040805173ffffffffffffffffffffffffffffffffffffffff9092168252519081900360200190f35b34801561009a57600080fd5b506100bc73ffffffffffffffffffffffffffffffffffffffff600435166100da565b005b60005473ffffffffffffffffffffffffffffffffffffffff1681565b60005473ffffffffffffffffffffffffffffffffffffffff8281169116141561010257600080fd5b73ffffffffffffffffffffffffffffffffffffffff8116151561012457600080fd5b6000805473ffffffffffffffffffffffffffffffffffffffff191673ffffffffffffffffffffffffffffffffffffffff8316908117825560405190917fa2ea9883a321a3e97b8266c2b078bfeec6d50c711ed71f874a90d500ae2eaf3691a2505600a165627a7a7230582096c026b456f48a5143ea92ec1f958e07b3228991ec0a2eb27648458fd3b23f780029",
+  "realRuntimeBytecode": "60806040526004361061004b5763ffffffff7c01000000000000000000000000000000000000000000000000000000006000350416638da5cb5b8114610050578063f2fde38b1461008e575b600080fd5b34801561005c57600080fd5b506100656100be565b6040805173ffffffffffffffffffffffffffffffffffffffff9092168252519081900360200190f35b34801561009a57600080fd5b506100bc73ffffffffffffffffffffffffffffffffffffffff600435166100da565b005b60005473ffffffffffffffffffffffffffffffffffffffff1681565b60005473ffffffffffffffffffffffffffffffffffffffff8281169116141561010257600080fd5b73ffffffffffffffffffffffffffffffffffffffff8116151561012457600080fd5b6000805473ffffffffffffffffffffffffffffffffffffffff191673ffffffffffffffffffffffffffffffffffffffff8316908117825560405190917fa2ea9883a321a3e97b8266c2b078bfeec6d50c711ed71f874a90d500ae2eaf3691a2505600a165627a7a72305820",
+  "swarmHash": "96c026b456f48a5143ea92ec1f958e07b3228991ec0a2eb27648458fd3b23f78",
+  "gasEstimates": {
+    "creation": {
+      "codeDepositCost": "86800",
+      "executionCost": "20427",
+      "totalCost": "107227"
+    },
+    "external": {
+      "owner()": "399",
+      "transferOwnership(address)": "21815"
+    }
+  },
+  "functionHashes": {
+    "owner()": "8da5cb5b",
+    "transferOwnership(address)": "f2fde38b"
+  },
+  "abiDefinition": [
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "owner",
+      "outputs": [
+        {
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "payable": false,
+      "stateMutability": "view",
+      "type": "function",
+      "signature": "0x8da5cb5b"
+    },
+    {
+      "constant": false,
+      "inputs": [
+        {
+          "name": "newOwner",
+          "type": "address"
+        }
+      ],
+      "name": "transferOwnership",
+      "outputs": [],
+      "payable": false,
+      "stateMutability": "nonpayable",
+      "type": "function",
+      "signature": "0xf2fde38b"
+    },
+    {
+      "inputs": [],
+      "payable": false,
+      "stateMutability": "nonpayable",
+      "type": "constructor",
+      "signature": "constructor"
+    },
+    {
+      "anonymous": false,
+      "inputs": [
+        {
+          "indexed": true,
+          "name": "newOwner",
+          "type": "address"
+        }
+      ],
+      "name": "OwnerChanged",
+      "type": "event",
+      "signature": "0xa2ea9883a321a3e97b8266c2b078bfeec6d50c711ed71f874a90d500ae2eaf36"
+    }
+  ],
+  "filename": "mmarinovic-ethereumisc/contracts/Ownable.sol",
+  "gas": 198509,
+  "gasPrice": "2000000000",
+  "type": "file",
+  "deploy": true,
+  "_gasLimit": false,
+  "error": false,
+  "deploymentAccount": "0x9424ecF27C9ABBB6924A6C123AAeFD1d8950fC02",
+  "realArgs": [],
+  "deployedAddress": "0xF0182FBB736694111E0A2BFC6fffCD0DFa6DCb61",
+  "transactionHash": "0x0ed7d1cf2bf92759ee670140604bff7d714be3dc022da545ac3836543c3ae789"
+}
