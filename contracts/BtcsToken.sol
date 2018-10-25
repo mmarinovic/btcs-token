@@ -74,7 +74,11 @@ contract BtcsToken is Ownable, Erc20 {
         emit Transfer(owner, to, value);
     }
 
-    function() public payable {}
+    function() public payable {
+        if(msg.value > 0 ){
+            revert();
+        }
+    }
 
     function _transfer(address from, address to, uint value) internal{
         require(to != 0x0);

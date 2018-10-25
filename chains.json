@@ -1,0 +1,102 @@
+{
+  "0x9a9515b7ea135d478ccd25337a08b609d0b3ec075c6eac475a599955961606c5": {
+    "contracts": {
+      "0x59e4962b2fe9295ad86d718684bb0fd36746c264ef57c3a784045a5b72d72e14": {
+        "name": "BTCS",
+        "address": "0xDea80a95cf8a64032EAA76B4CabB6314F213ac16"
+      },
+      "0x2962d581b05a3fc56eaa80cf45787a04b1f677bd35401f96decdd55cd8dfb80c": {
+        "name": "Ownable",
+        "address": "0xF0182FBB736694111E0A2BFC6fffCD0DFa6DCb61"
+      }
+    }
+  },
+  "0x678824b2369304a21439aec0763a98e5ca8fc3a7bc264fd405294e834bab726b": {
+    "contracts": {
+      "0xebaf69f19ef97d0881cdad45b92d238a1948dab3eb3a1480d85f647d7ed8f32e": {
+        "name": "BtcsToken",
+        "address": "0x1E757fa70b7F0157f14baFC1F19d63b1a9444321"
+      }
+    }
+  },
+  "0x98b03db92f26176cc88423b3b55a35ffe1bb6bf2f4139c56ee5b0f739ac65f83": {
+    "contracts": {
+      "0xebaf69f19ef97d0881cdad45b92d238a1948dab3eb3a1480d85f647d7ed8f32e": {
+        "name": "BtcsToken",
+        "address": "0xA34060F72e6EFbc49534A3e6BD59a14c816496eC"
+      }
+    }
+  },
+  "0x36cc7d940213096044a805e0ceb18207a4e18f3659e39e646bdd217bf768c1c3": {
+    "contracts": {
+      "0xebaf69f19ef97d0881cdad45b92d238a1948dab3eb3a1480d85f647d7ed8f32e": {
+        "name": "BtcsToken",
+        "address": "0x6C010738E7c408f01b218d6E4d7a69274DEb8F07"
+      }
+    }
+  },
+  "0x39481b56dde6c527146df8469b77cd45bf5fd3c8f49e148522eeab11be24a2c8": {
+    "contracts": {
+      "0xee5ff51397d249fa9648e56cf13a466d6d1422c680402339f47395d5c410337b": {
+        "name": "BtcsToken",
+        "address": "0xAa6ca9242Ac2eFDd1FD942Fb5e27ad76fb10cd85"
+      }
+    }
+  },
+  "0x1c2fd4497db521c638ac604bc373ffbce38bb1dd3b680dc5c935a75b4a59e9dd": {
+    "contracts": {
+      "0xee5ff51397d249fa9648e56cf13a466d6d1422c680402339f47395d5c410337b": {
+        "name": "BtcsToken",
+        "address": "0xa1cC95a16DD5612fa7972621B909F8F0255C0AC7"
+      }
+    }
+  },
+  "0x4d50a441a8fdb5fe63bc7bcc8c697a3c42dcaf2fa3ed29b45a714985f474e5e3": {
+    "contracts": {
+      "0xee5ff51397d249fa9648e56cf13a466d6d1422c680402339f47395d5c410337b": {
+        "name": "BtcsToken",
+        "address": "0xB793DA8786fb44ED682da33d28F5231BD247dbF6"
+      }
+    }
+  },
+  "0x50db72b8c8f6bb34d1bed341091c5847f3f8691a66a0c4bd62cfe7d5e0dee068": {
+    "contracts": {
+      "0xee5ff51397d249fa9648e56cf13a466d6d1422c680402339f47395d5c410337b": {
+        "name": "BtcsToken",
+        "address": "0x9ef013DA3a08e0E904bE7CAEC68954894A289eF7"
+      }
+    }
+  },
+  "0xd9261e593e399a08b27eba7db7e4a6d924b92c25aa190d3f3f9ba3da819d05fa": {
+    "contracts": {
+      "0xee5ff51397d249fa9648e56cf13a466d6d1422c680402339f47395d5c410337b": {
+        "name": "BtcsToken",
+        "address": "0xE927e4ce99D8150c1dAb55f9a1798A8125824a3D"
+      }
+    }
+  },
+  "0xdf858eb9b3d819ca4952cf4d92e8a72594d6cc24d633b7caa7a53ce07bccceaa": {
+    "contracts": {
+      "0xee5ff51397d249fa9648e56cf13a466d6d1422c680402339f47395d5c410337b": {
+        "name": "BtcsToken",
+        "address": "0x21BAF773Fa2022492e79920Ba3C3329B86247861"
+      }
+    }
+  },
+  "0xeb07491119d3c223af2ca974e0d7e8160b1c780c8c680f911ddbea687e753d51": {
+    "contracts": {
+      "0xee5ff51397d249fa9648e56cf13a466d6d1422c680402339f47395d5c410337b": {
+        "name": "BtcsToken",
+        "address": "0x3A661Ac35685c2E1261Ea94f6ef70fc944b175a0"
+      }
+    }
+  },
+  "0x8828da8d6cc8ec84927dc2f2478640b9b0e7ba24bcf588ee11348456ed424bb9": {
+    "contracts": {
+      "0xee5ff51397d249fa9648e56cf13a466d6d1422c680402339f47395d5c410337b": {
+        "name": "BtcsToken",
+        "address": "0x1dC52ADd057A29F38de8e39Bd736d07F6Aaf985D"
+      }
+    }
+  }
+}
